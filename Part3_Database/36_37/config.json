@@ -1,0 +1,7 @@
+{
+    "connection": "mongodb://127.0.0.1:27017/",
+    "db_name": "blog_1",
+    "users_collection": "users",
+    "posts_collection": "posts",
+    "logs": "logs"
+}
